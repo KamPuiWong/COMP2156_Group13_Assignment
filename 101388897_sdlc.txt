@@ -1,1 +1,2 @@
 SDLC stands for "Software Development Life Cycle". 
+The goal of the SDLC is to provide a systematic and repeatable approach to software development that helps to ensure high-quality, reliable software that meets the needs of its users.
