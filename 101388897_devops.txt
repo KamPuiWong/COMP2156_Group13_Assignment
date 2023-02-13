@@ -1,2 +1,4 @@
 Devops class has 8 quizs.
 
+
+Each Quiz is of 1%.
