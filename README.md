@@ -1,2 +1,5 @@
-# COMP2156_Group13_AssignmentGroup Members:
+# COMP2156_Group13_Assignment
+
+Group Members:
 KamPuiWong
+Dorsa Jelvani
