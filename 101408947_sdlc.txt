@@ -1,2 +1,2 @@
 DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
-
+A DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment, to maintenance and updates.
