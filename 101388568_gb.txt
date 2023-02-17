@@ -1,0 +1,10 @@
+In our first week we’ll be taking a look at what a DevOps engineer is and does from a 10,000ft view. With the high-level overview of what DevOps is, we’ll also unpack some commonly used terms and introduce ourselves to industry standard tools often used in the field.
+One of the tools we’ll be looking at and using quite closely is BASH (Bourne Again Shell). We’ll learn what bash is, why it’s used, some foundational knowledge to properly navigate through bash and some tricks of the trades to help us become power users. We’ll be looking at some common bash syntax and statements, along with their intention.
+Before proceeding with this course, please ensure you have Git and Node installed on your machine. Lab machines should have both of these installed, so if you prefer to use your own machine, Git and Node is required to follow the lab material. For instructions on getting set up, please check out the tutorial folder.
+When working with a team of Developers, a must-have operational procedure is the integration of a well-planned version control strategy.
+ 
+During this week, we’ll be looking at version control, how it’s core to DevOps processes and used for cross team collaboration. To understand what Continuous Integration is, we’ll first become familiar with version control systems (VCS) and see how a VCS is integral to the CI process.
+ 
+We will also continue expanding our BASH foundation we formed in week 1. Using Git on the command line interface (CLI) will help us understand how it’s to be used, configure RSA keys for SSH access and learn some industry tricks that will make our lives easier when working with the CLI.
+ 
+By this point, you should have both Node, Git and a BASH terminal set up. If you do not, please refer to the lab material in week 1 to get set up. You must have the requisites installed and completed this week's exercise.
