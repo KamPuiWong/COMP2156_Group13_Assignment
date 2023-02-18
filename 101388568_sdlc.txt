@@ -1,0 +1,7 @@
+important of learing devops:
+The learning of DevOps helps in reducing the time for cycles of development and also ensures a faster rate of innovation.
+Requisites:
+ 
+1. Node
+2. Git
+ DevOps is all about the unification and automation of processes, and DevOps engineers are instrumental in combining code, application maintenance, and application management. All of these tasks rely on understanding not only development life cycles, but DevOps culture, and its philosophy, practices, and tools.
