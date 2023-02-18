@@ -8,7 +8,7 @@ maryam kobari
 yasaman ebrahimi  
 Trong Nghia Pham Do  
 
-#How to initialize a git repo:  
+## How to initialize a git repo:  
   
   
 ```  
@@ -17,7 +17,7 @@ git remote add origin $URL
 git pull  
 ```   
   
-How to merge branches(merge main with second_branch):  
+# How to merge branches(merge main with second_branch):  
   
 ```  
 git checkout main  
